@@ -1,0 +1,48 @@
+ <footer id="myFooter" style="background: #182c39">
+                    <div class="container1">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <h5>Explora con gusto</h5>
+                                <ul>
+                                    <li><a href="#">Inicio</a></li>
+                                    <li><a href="#"></a></li>
+                                    <li><a href="#"></a></li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-4">
+                                <h5>Acerca de Nosotros</h5>
+                                <ul>
+                                    <li><a>Somos una institucion  educativa con mas 20 años de experiencia, formando personas con un alto nivel educativo y listos 
+                                            para afrontar cualquier obstaculo.</a></li>
+                                    <li><a href="#"></a></li>
+                                    <li><a href="#"></a></li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-4">
+                                <h5>Support</h5>
+                                <ul>
+                                    <li><a>Grupo de estudiantes del VI ciclo de la Universidad de Ciencias y Humanidades | JJTTV.</a></li>
+                                    <li><a href="#"></a></li>
+                                    <li><a href="#"></a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+
+                        
+
+                    
+                    <div class="social-networks" >
+
+                        <a href="https://es-la.facebook.com/ColegioKurtLewin/" class="facebook"><i class="fa fa-facebook"></i></a>
+                        <a href="http://colegiokurtlewin.blogspot.com/" class="google"><i class="fa fa-google-plus"></i></a>
+                   
+                    
+                        <p class="footer-copyright">© 2019 Copyright Colegio Kurt Lewin</p>
+                     </div>
+                    </div>
+                </footer>
+    <!-- /FOOTER -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
